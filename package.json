@@ -1,0 +1,9 @@
+{
+  "name": "library-access-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student library entry and exit chatbot powered by Groq",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
